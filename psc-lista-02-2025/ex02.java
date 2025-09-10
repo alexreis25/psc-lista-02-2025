@@ -19,5 +19,9 @@ public class ex02 {
         int multiplicacao = numero1 * numero2;
         System.out.println(" A multiplicação dos dois número é: " + multiplicacao);
 
+         scanner.close();
+
     }
+    
 }
+
