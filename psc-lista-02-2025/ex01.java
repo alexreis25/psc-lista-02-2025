@@ -9,5 +9,6 @@ public class ex01 {
 
         System.out.println(" O número informado foi " + numero);
     }
-    
+    scanner.close();
 }
+
