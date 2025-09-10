@@ -21,6 +21,9 @@ public class ex05 {
 
     System.out.println("O valor total da viagem para " + quantidadePessoas + " Pessoas foi de : R$" + valorTotal);
 
+     scanner.close();
+
   }
+
 
 }
