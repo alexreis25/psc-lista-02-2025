@@ -19,6 +19,8 @@ public class ex03{
     double media = (bimestre1 + bimestre2 + bimestre3 + bimestre4) / 4;
 
     System.out.println("A medida dos 4 bimestres é: " + media);
-    
+
+    scanner.close();    
     }
 }
+
