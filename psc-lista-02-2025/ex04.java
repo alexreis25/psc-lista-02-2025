@@ -16,6 +16,9 @@ public class ex04 {
 
         System.out.println(" O cliente devera pagar: R$" + valorPagar);
 
+         scanner.close();
+
     }
 
 }
+
